@@ -24,3 +24,7 @@ configuration](https://pre-commit.com/#2-add-a-pre-commit-configuration).
 - Sometimes, it’s OK if a file doesn’t fully pass all of pre-commit’s checks. In
 those cases,
 [skip the failing hook(s)](https://pre-commit.com/#temporarily-disabling-hooks).
+
+## Copying
+
+See [COPYING.md](./COPYING.md).
