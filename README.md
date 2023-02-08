@@ -13,6 +13,8 @@ self-love.
 If you decide to contribute to this project, then I hope that you’ll find the
 following hints helpful:
 
+- the `project` folder contains a [Godot](https://godotengine.org/) project.
+- Use [Godot 4.0 RC 1](https://godotengine.org/article/release-candidate-godot-4-0-rc-1/).
 - Use tabs for indentation. The only exception to this rule is in YAML files
 because [YAML requires spaces for
 indentation](https://yaml.org/spec/1.2.2/#61-indentation-spaces). In YAML files,
